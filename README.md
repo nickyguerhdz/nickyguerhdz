@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nicolle Guerrero 👋
 
 I'm a developer with experience in building desktop, web, and data-driven applications.  
 I enjoy working with Microsoft technologies, databases, and modern web tools.
@@ -18,20 +18,11 @@ I enjoy working with Microsoft technologies, databases, and modern web tools.
 ### Web & Application Development
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,angular)](https://skillicons.dev)
 
-- Razor Pages  
-- WinForms / WPF  
-- .NET Framework / .NET Core  
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-- SQL  
-- Stored Procedures  
+### Databases & Cloud Services
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,azure)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
-
-- Power BI
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,postman)](https://skillicons.dev)
 
 ## What I Do
 
