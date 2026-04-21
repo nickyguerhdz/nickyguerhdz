@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**nickyguerhdz/nickyguerhdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with experience in building desktop, web, and data-driven applications.  
+I enjoy working with Microsoft technologies, databases, and modern web tools.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Developer focused on backend, desktop, and web development
+- ⚙️ Experienced with .NET technologies and database systems
+- 🌐 Interested in building practical, maintainable software solutions
+- 📊 Also familiar with reporting and analytics tools like Power BI
+
+## Tech Stack
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,visualstudio)](https://skillicons.dev)
+
+### Web & Application Development
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,angular)](https://skillicons.dev)
+
+- Razor Pages  
+- WinForms / WPF  
+- .NET Framework / .NET Core  
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+- SQL  
+- Stored Procedures  
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
+
+- Power BI
+
+## What I Do
+
+- Build applications using **C# and .NET**
+- Develop web interfaces with **Angular, Bootstrap, and Razor Pages**
+- Create desktop solutions with **WinForms and WPF**
+- Work with databases including **SQL Server, MySQL, and MongoDB**
+- Use **GitHub** and **GitLab** for version control and collaboration
+
+## Contact
+
+- GitHub: [@nickyguerhdz](https://github.com/nickyguerhdz)
+- LinkedIn: [Nicolle Guerrero](https://www.linkedin.com/in/nicolle-guerrero/)
+- Email: nicolleghdz@hotmail.com
