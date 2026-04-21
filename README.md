@@ -13,16 +13,16 @@ I enjoy working with Microsoft technologies, databases, and modern web tools.
 ## Tech Stack
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,visualstudio,ts,html,js,react)](https://skillicons.dev)
 
 ### Web & Application Development
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,angular,godot,vscode)](https://skillicons.dev)
 
 ### Databases & Cloud Services
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,azure,npm)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,postman,figma,ai)](https://skillicons.dev)
 
 ## What I Do
 
